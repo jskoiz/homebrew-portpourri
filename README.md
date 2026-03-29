@@ -1,16 +1,16 @@
-# homebrew-nodewatcher
+# homebrew-portpourri
 
-Homebrew tap for [NodeWatcher](https://github.com/jskoiz/node-watcher).
+Homebrew tap for [Portpourri](https://github.com/jskoiz/portpourri).
 
 ## Install
 
 ```bash
-brew tap jskoiz/nodewatcher
-brew install --cask nodewatcher
+brew tap jskoiz/portpourri
+brew install --cask portpourri
 ```
 
 ## Update
 
 ```bash
-brew upgrade --cask nodewatcher
+brew upgrade --cask portpourri
 ```
